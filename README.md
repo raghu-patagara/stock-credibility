@@ -1,2 +1,2 @@
 # stock-credibility
-This project is based on that what is the credibility of stock in future
+This project is based on that at what will be the credibility of stock in future.
